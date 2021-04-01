@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">edu.btree.Node</node>
+    <node x="0.0" y="364.0">edu.story.AeroCar</node>
+    <node x="289.0" y="364.0">edu.story.Room</node>
+    <node x="281.0" y="0.0">edu.sin.SinFunction</node>
+    <node x="0.0" y="574.0">edu.btree.BTree</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="212.6428571428571" y="271.71428571428567" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
